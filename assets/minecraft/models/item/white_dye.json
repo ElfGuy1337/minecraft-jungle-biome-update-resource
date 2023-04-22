@@ -1,0 +1,234 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/white_dye"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "minecraft:item/temple_boss/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "minecraft:item/temple_boss/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "minecraft:item/temple_boss/upper_left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "minecraft:item/temple_boss/spear"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "minecraft:item/temple_boss/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "minecraft:item/temple_boss/upper_right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "minecraft:item/temple_boss/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "minecraft:item/temple_boss/lower_right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 9
+			},
+			"model": "minecraft:item/temple_boss/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 10
+			},
+			"model": "minecraft:item/temple_boss/lower_left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 11
+			},
+			"model": "minecraft:item/temple_boss/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 12
+			},
+			"model": "minecraft:item/temple_boss/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 13
+			},
+			"model": "minecraft:item/temple_boss/attack/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 14
+			},
+			"model": "minecraft:item/temple_boss/attack/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 15
+			},
+			"model": "minecraft:item/temple_boss/attack/upper_left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 16
+			},
+			"model": "minecraft:item/temple_boss/attack/spear"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 17
+			},
+			"model": "minecraft:item/temple_boss/attack/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 18
+			},
+			"model": "minecraft:item/temple_boss/attack/upper_right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 19
+			},
+			"model": "minecraft:item/temple_boss/attack/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 20
+			},
+			"model": "minecraft:item/temple_boss/attack/lower_right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 21
+			},
+			"model": "minecraft:item/temple_boss/attack/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 22
+			},
+			"model": "minecraft:item/temple_boss/attack/lower_left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 23
+			},
+			"model": "minecraft:item/temple_boss/attack/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 24
+			},
+			"model": "minecraft:item/temple_boss/attack/bone2"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 25
+			},
+			"model": "minecraft:item/temple_boss/blood/bone"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 26
+			},
+			"model": "minecraft:item/temple_boss/blood/left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 27
+			},
+			"model": "minecraft:item/temple_boss/blood/upper_left_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 28
+			},
+			"model": "minecraft:item/temple_boss/blood/spear"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 29
+			},
+			"model": "minecraft:item/temple_boss/blood/right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 30
+			},
+			"model": "minecraft:item/temple_boss/blood/upper_right_arm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 31
+			},
+			"model": "minecraft:item/temple_boss/blood/right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 32
+			},
+			"model": "minecraft:item/temple_boss/blood/lower_right_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 33
+			},
+			"model": "minecraft:item/temple_boss/blood/left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 34
+			},
+			"model": "minecraft:item/temple_boss/blood/lower_left_leg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 35
+			},
+			"model": "minecraft:item/temple_boss/blood/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 36
+			},
+			"model": "minecraft:item/temple_boss/blood/bone2"
+		}
+	],
+	"aj": {
+		"includedRigs": {
+			"d946b602-14a7-aa05-2537-3712d009f73e": {
+				"name": "temple_boss",
+				"usedIDs": [
+					[1, 36]
+				]
+			}
+		}
+	}
+}

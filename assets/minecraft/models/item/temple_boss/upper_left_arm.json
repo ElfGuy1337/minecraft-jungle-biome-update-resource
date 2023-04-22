@@ -1,0 +1,108 @@
+{
+	"__credit": "Generated using Animated Java (https://animated-java.dev/)",
+	"textures": {
+		"3": "minecraft:item/red_birch_boss",
+		"8": "minecraft:item/gold_block_boss",
+		"9": "minecraft:item/redstone_block_boss"
+	},
+	"elements": [
+		{
+			"faces": {
+				"north": {"uv": [3, 3, 4.4, 4.4], "texture": "#9"},
+				"east": {"uv": [3, 3, 4.4, 4.4], "texture": "#9"},
+				"south": {"uv": [3, 3, 4.4, 4.4], "rotation": 180, "texture": "#9"},
+				"west": {"uv": [3, 3, 4.4, 4.4], "texture": "#9"},
+				"up": {"uv": [3, 3, 4.4, 4.4], "rotation": 180, "texture": "#9"},
+				"down": {"uv": [3, 3, 4.4, 4.4], "rotation": 180, "texture": "#9"}
+			},
+			"to": [8.712, 5.104, 5.75239],
+			"from": [8.632, 4.544, 5.19239],
+			"rotation": {"angle": 45, "axis": "x", "origin": [6.992, 4.864, 5.43239]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [3, 3, 4.4, 4.4], "rotation": 270, "texture": "#9"},
+				"east": {"uv": [3, 3, 4.4, 4.4], "rotation": 270, "texture": "#9"},
+				"south": {"uv": [3, 3, 4.4, 4.4], "rotation": 270, "texture": "#9"},
+				"west": {"uv": [3, 3, 4.4, 4.4], "rotation": 270, "texture": "#9"},
+				"up": {"uv": [3, 3, 4.4, 4.4], "rotation": 270, "texture": "#9"},
+				"down": {"uv": [3, 3, 4.4, 4.4], "rotation": 270, "texture": "#9"}
+			},
+			"to": [6.432, 5.704, 5.01651],
+			"from": [5.872, 5.624, 4.45651],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.832, 4.824, 3.05651]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [3, 3, 4.4, 4.4], "rotation": 270, "texture": "#9"},
+				"east": {"uv": [3, 3, 4.4, 4.4], "rotation": 270, "texture": "#9"},
+				"south": {"uv": [3, 3, 4.4, 4.4], "rotation": 270, "texture": "#9"},
+				"west": {"uv": [3, 3, 4.4, 4.4], "rotation": 270, "texture": "#9"},
+				"up": {"uv": [3, 3, 4.4, 4.4], "rotation": 270, "texture": "#9"},
+				"down": {"uv": [3, 3, 4.4, 4.4], "rotation": 270, "texture": "#9"}
+			},
+			"to": [6.432, 4.024, 5.05651],
+			"from": [5.872, 3.944, 4.49651],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.832, 4.824, 3.05651]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [0, 0, 3, 3], "texture": "#3"},
+				"east": {"uv": [0, 0, 3, 3], "texture": "#3"},
+				"south": {"uv": [0, 0, 3, 3], "texture": "#3"},
+				"west": {"uv": [0, 0, 3, 3], "texture": "#3"},
+				"up": {"uv": [0, 0, 3, 3], "rotation": 270, "texture": "#3"},
+				"down": {"uv": [0, 0, 3, 3], "rotation": 90, "texture": "#3"}
+			},
+			"to": [8.032, 5.464, 4.05651],
+			"from": [6.832, 4.184, 2.85651],
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.832, 4.824, 3.05651]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [1, 1, 4, 6], "rotation": 270, "texture": "#8"},
+				"east": {"uv": [1, 1, 4, 6], "rotation": 270, "texture": "#8"},
+				"south": {"uv": [1, 1, 4, 6], "rotation": 270, "texture": "#8"},
+				"west": {"uv": [1, 1, 4, 6], "rotation": 270, "texture": "#8"},
+				"up": {"uv": [1, 1, 4, 6], "rotation": 270, "texture": "#8"},
+				"down": {"uv": [1, 1, 4, 6], "rotation": 270, "texture": "#8"}
+			},
+			"to": [8.632, 5.624, 6.05651],
+			"from": [7.032, 4.024, 4.85651],
+			"rotation": {"angle": 0, "axis": "y", "origin": [19.832, 5.024, 5.65651]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [0, 0, 3, 3], "texture": "#3"},
+				"east": {"uv": [0, 0, 13, 3], "texture": "#3"},
+				"south": {"uv": [0, 0, 3, 3], "texture": "#3"},
+				"west": {"uv": [0, 0, 13, 3], "texture": "#3"},
+				"up": {"uv": [0, 0, 13, 3], "rotation": 270, "texture": "#3"},
+				"down": {"uv": [0, 0, 13, 3], "rotation": 90, "texture": "#3"}
+			},
+			"to": [8.432, 5.424, 8.45651],
+			"from": [7.232, 4.224, 3.65651],
+			"rotation": {"angle": 0, "axis": "y", "origin": [19.832, 5.024, 5.65651]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [3, 3, 4.4, 4.4], "texture": "#9"},
+				"east": {"uv": [3, 3, 4.4, 4.4], "texture": "#9"},
+				"south": {"uv": [3, 3, 4.4, 4.4], "rotation": 180, "texture": "#9"},
+				"west": {"uv": [3, 3, 4.4, 4.4], "texture": "#9"},
+				"up": {"uv": [3, 3, 4.4, 4.4], "rotation": 180, "texture": "#9"},
+				"down": {"uv": [3, 3, 4.4, 4.4], "rotation": 180, "texture": "#9"}
+			},
+			"to": [7.032, 5.104, 5.75239],
+			"from": [6.952, 4.544, 5.19239],
+			"rotation": {"angle": 45, "axis": "x", "origin": [6.992, 4.864, 5.43239]}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 5.6, 0],
+			"scale": [4, 4, 4],
+			"rotation": [0, 0, 0]
+		}
+	}
+}

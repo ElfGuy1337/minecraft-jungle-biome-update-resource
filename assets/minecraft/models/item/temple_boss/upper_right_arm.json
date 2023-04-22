@@ -1,0 +1,110 @@
+{
+	"__credit": "Generated using Animated Java (https://animated-java.dev/)",
+	"textures": {
+		"3": "minecraft:item/red_birch_boss",
+		"5": "minecraft:item/jungle_log_boss",
+		"6": "minecraft:item/anvil_boss",
+		"8": "minecraft:item/gold_block_boss",
+		"14": "minecraft:item/shield_boss"
+	},
+	"elements": [
+		{
+			"faces": {
+				"north": {"uv": [3, 0, 0, 3], "texture": "#3"},
+				"east": {"uv": [13, 11, 0, 14], "texture": "#3"},
+				"south": {"uv": [3, 0, 0, 3], "texture": "#3"},
+				"west": {"uv": [13, 0, 0, 3], "texture": "#3"},
+				"up": {"uv": [0, 3, 13, 0], "rotation": 270, "texture": "#3"},
+				"down": {"uv": [0, 3, 13, 0], "rotation": 90, "texture": "#3"}
+			},
+			"to": [8.51813, 5.60837, 8.56247],
+			"from": [7.31813, 4.40837, 3.76247],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.20468, 5.00837, 5.32815]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [3, 0, 0, 3.2], "texture": "#3"},
+				"east": {"uv": [3, 11, 0, 14.2], "texture": "#3"},
+				"south": {"uv": [3, 0, 0, 3], "texture": "#3"},
+				"west": {"uv": [3, 0, 0, 3.2], "texture": "#3"},
+				"up": {"uv": [0, 3, 3, 0], "rotation": 270, "texture": "#3"},
+				"down": {"uv": [0, 3, 3, 0], "rotation": 90, "texture": "#3"}
+			},
+			"to": [9.61627, 5.64837, 4.71132],
+			"from": [8.41627, 4.36837, 3.51132],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8.20468, 5.00837, 5.32815]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [1, 0, 0, 14.2], "rotation": 180, "texture": "#5"},
+				"east": {"uv": [16, 0, 0, 16], "rotation": 180, "texture": "#14"},
+				"south": {"uv": [1, 0, 0, 14.2], "rotation": 180, "texture": "#5"},
+				"west": {"uv": [12.2, 0, 0, 12.2], "rotation": 180, "texture": "#5"},
+				"up": {"uv": [0, 1, 12.2, 0], "rotation": 90, "texture": "#5"},
+				"down": {"uv": [0, 1, 12.2, 0], "rotation": 270, "texture": "#5"}
+			},
+			"to": [8.89122, 8.53832, 7.39536],
+			"from": [8.49122, 2.85832, 1.71536],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8.20468, 5.00837, 5.32815]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [6, 1, 1, 6], "texture": "#8"},
+				"east": {"uv": [1, 11, 0, 16], "texture": "#8"},
+				"south": {"uv": [5, 0, 0, 5], "texture": "#8"},
+				"west": {"uv": [2, 1, 1, 6], "texture": "#8"},
+				"up": {"uv": [5, 0, 0, 1], "texture": "#8"},
+				"down": {"uv": [0, 5, 1, 0], "rotation": 90, "texture": "#8"}
+			},
+			"to": [8.55813, 5.64837, 5.36247],
+			"from": [7.27813, 4.36837, 4.96247],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.20468, 5.00837, 5.32815]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [5, 8, 9.2, 13.2], "texture": "#6"},
+				"east": {"uv": [5, 8, 9.2, 10], "texture": "#6"},
+				"south": {"uv": [5, 8, 9.2, 13.2], "texture": "#6"},
+				"west": {"uv": [5, 8, 7, 13.2], "texture": "#6"},
+				"up": {"uv": [5, 8, 9.2, 10], "texture": "#6"},
+				"down": {"uv": [5, 8, 9.2, 10], "texture": "#6"}
+			},
+			"to": [8.55813, 6.04837, 4.56247],
+			"from": [6.87813, 3.96837, 3.76247],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.20468, 5.00837, 5.32815]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [6, 1, 1, 6], "texture": "#8"},
+				"east": {"uv": [1, 11, 0, 16], "texture": "#8"},
+				"south": {"uv": [5, 0, 0, 5], "texture": "#8"},
+				"west": {"uv": [2, 1, 1, 6], "texture": "#8"},
+				"up": {"uv": [5, 0, 0, 1], "texture": "#8"},
+				"down": {"uv": [0, 5, 1, 0], "rotation": 90, "texture": "#8"}
+			},
+			"to": [8.55813, 5.64837, 6.16247],
+			"from": [7.27813, 4.36837, 5.76247],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.20468, 5.00837, 5.32815]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [6, 1, 1, 6], "texture": "#8"},
+				"east": {"uv": [1, 11, 0, 16], "texture": "#8"},
+				"south": {"uv": [5, 0, 0, 5], "texture": "#8"},
+				"west": {"uv": [2, 1, 1, 6], "texture": "#8"},
+				"up": {"uv": [5, 0, 0, 1], "texture": "#8"},
+				"down": {"uv": [0, 5, 1, 0], "rotation": 90, "texture": "#8"}
+			},
+			"to": [8.55813, 5.64837, 6.96247],
+			"from": [7.27813, 4.36837, 6.56247],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.20468, 5.00837, 5.32815]}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 5.6, 0],
+			"scale": [4, 4, 4],
+			"rotation": [0, 0, 0]
+		}
+	}
+}

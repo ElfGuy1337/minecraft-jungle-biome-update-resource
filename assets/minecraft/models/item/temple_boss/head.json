@@ -1,0 +1,42 @@
+{
+	"__credit": "Generated using Animated Java (https://animated-java.dev/)",
+	"textures": {
+		"3": "minecraft:item/red_birch_boss",
+		"6": "minecraft:item/anvil_boss"
+	},
+	"elements": [
+		{
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 9, 9], "texture": "#6"},
+				"south": {"uv": [0, 0, 8, 9], "texture": "#6"},
+				"west": {"uv": [0, 0, 9, 9], "texture": "#6"},
+				"up": {"uv": [0, 0, 8, 9], "texture": "#6"},
+				"down": {"uv": [0, 0, 8, 9], "texture": "#6"}
+			},
+			"to": [10, 6, 10.1],
+			"from": [6, 4.4, 6.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4.8, 8.1]}
+		},
+		{
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"east": {"uv": [0, 0, 9, 9], "texture": "#3"},
+				"south": {"uv": [0, 0, 8, 9], "texture": "#3"},
+				"west": {"uv": [0, 0, 9, 9], "texture": "#3"},
+				"up": {"uv": [0, 0, 8, 9], "texture": "#3"},
+				"down": {"uv": [0, 0, 8, 9], "texture": "#3"}
+			},
+			"to": [9.6, 6.8, 9.7],
+			"from": [6.4, 2.8, 6.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 4.8, 8.1]}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, 5.6, 0],
+			"scale": [4, 4, 4],
+			"rotation": [0, 0, 0]
+		}
+	}
+}
